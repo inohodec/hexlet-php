@@ -1,6 +1,12 @@
 {
+    "name": "ostepan/hexlet-php",
+    "authors": [
+        {
+            "name": "Max Ostepan",
+            "email": "ostepam@sd.com"
+        }
+    ],
     "require": {
-        "ezyang/htmlpurifier": "^4.13",
-        "phploc/phploc": "^7.0"
+        "tightenco/collect": "^8.19"
     }
 }
